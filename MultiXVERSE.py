@@ -47,10 +47,9 @@ def main(args=None):
     
     
     ##################################################################################
-    # !! Careful !! 
-    # Check if nodes in the bipartite have the same nodes in the multiplex
-    # networks. If not you have to remove the nodes in the multiplexes not included in the  
-    # bipartites
+    # Ensure that the nodes in the bipartite network match those in the multiplex networks. 
+    # If there are nodes in the multiplex networks that are not present in the bipartite network, these extra nodes must be removed.
+    # Or self-loops on this missing nodes must be added in one layer of the corresponding multiplex and the parameter 'self-loops' passed to 1 in the multixrank parameters
     ##################################################################################
     
 
