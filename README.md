@@ -4,8 +4,7 @@ Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and ful
 
 You can find in this repository the necessary files to use MultiXVERSE for universal multilayer network embedding. You can find the corresponding preprint on osf here: (https://files.osf.io/v1/resources/d78wb/providers/osfstorage/6684cbed9c98c701b51b3f77?action=download&direct&version=3)
 
-In order to use MultiXVERSE, you need the networks to be in the same format as the example in /airport as it is necessary to use multixrank (https://github.com/anthbapt/multixrank).
-
+To employ MultiXVERSE, it is essential that the networks are formatted similarly to the example found in the /airport directory, as this format is required for utilizing MultiXRank (available at https://github.com/anthbapt/multixrank). The airport network provided in this directory originates from the same source.
 
 ## Requirements
 
