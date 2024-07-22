@@ -29,10 +29,4 @@ The usage is the following for this example with the airport multilayer network:
 
 `python3 MultiXVERSE.py`
 
-          Options:
-                 -k NUMERIC
-                   Value of the position of the networks in the list 'Test_Networks'
-
-To use the example, you can write in a terminal the following command:
-
 The output of this command is the embedding 'embedding_MH.npy' in the directory ResultsèEmbeddings. The embedding is a dictionary with the index as key and the corresponding embedding as value.
