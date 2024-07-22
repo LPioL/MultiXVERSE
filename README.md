@@ -19,13 +19,11 @@ Python 3:
 
 A good way to set up the appropriate environement is to use the associated .yml conda environment.
 
-## MultiXVERSE:
+## MultiXVERSE.py example:
 
-**MultiXVERSE_M.py**
+This program allows to apply MultiXVERSE on a multilayer network, here the airport network.
 
-This program allows to apply MultiVERSE on a multiplex network.
-
-The usage is the following for this example with the airport multilayer network:
+The usage is the following:
 
 `python3 MultiXVERSE.py`
 
