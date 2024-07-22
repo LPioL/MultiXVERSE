@@ -27,4 +27,4 @@ The usage is the following:
 
 `python3 MultiXVERSE.py`
 
-The output of this command is the embedding 'embedding_MH.npy' in the directory ResultsèEmbeddings. The embedding is a dictionary with the index as key and the corresponding embedding as value.
+The output of this command is the embedding 'embedding_MH.npy' in the directory Results_Embeddings. The embedding is a dictionary with the index as key and the corresponding embedding as value.
