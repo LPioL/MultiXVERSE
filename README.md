@@ -1,6 +1,5 @@
 # MultiXVERSE
 
-# MultiVERSE
 Embedding of Monoplex, Multiplex, Heterogeneous, Multiplex-Heterogeneous and full Multiplex-Heterogeneous Networks.
 
 You can find in this repository the necessary files to use MultiXVERSE for universal multilayer network embedding. You can find the corresponding preprint on osf here: (https://files.osf.io/v1/resources/d78wb/providers/osfstorage/6684cbed9c98c701b51b3f77?action=download&direct&version=3)
